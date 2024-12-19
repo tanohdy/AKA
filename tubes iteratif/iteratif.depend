@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1734595476 source:d:\skul\analisis kompleksitas algoritma\iteratif\main.cpp
-	<iostream>
-	<time.h>
-
-1734600726 source:d:\skul\aka\iteratif\main.cpp
-	<iostream>
-	<chrono>
-
